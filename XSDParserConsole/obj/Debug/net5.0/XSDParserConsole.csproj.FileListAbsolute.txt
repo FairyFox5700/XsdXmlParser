@@ -1,0 +1,12 @@
+E:\Предмети\MyProject\XMLParser\XsdXmlParser\XSDParserConsole\bin\Debug\net5.0\XSDParserConsole.deps.json
+E:\Предмети\MyProject\XMLParser\XsdXmlParser\XSDParserConsole\bin\Debug\net5.0\XSDParserConsole.dll
+E:\Предмети\MyProject\XMLParser\XsdXmlParser\XSDParserConsole\bin\Debug\net5.0\ref\XSDParserConsole.dll
+E:\Предмети\MyProject\XMLParser\XsdXmlParser\XSDParserConsole\bin\Debug\net5.0\XSDParserConsole.pdb
+E:\Предмети\MyProject\XMLParser\XsdXmlParser\XSDParserConsole\obj\Debug\net5.0\XSDParserConsole.csproj.AssemblyReference.cache
+E:\Предмети\MyProject\XMLParser\XsdXmlParser\XSDParserConsole\obj\Debug\net5.0\XSDParserConsole.GeneratedMSBuildEditorConfig.editorconfig
+E:\Предмети\MyProject\XMLParser\XsdXmlParser\XSDParserConsole\obj\Debug\net5.0\XSDParserConsole.AssemblyInfoInputs.cache
+E:\Предмети\MyProject\XMLParser\XsdXmlParser\XSDParserConsole\obj\Debug\net5.0\XSDParserConsole.AssemblyInfo.cs
+E:\Предмети\MyProject\XMLParser\XsdXmlParser\XSDParserConsole\obj\Debug\net5.0\XSDParserConsole.csproj.CoreCompileInputs.cache
+E:\Предмети\MyProject\XMLParser\XsdXmlParser\XSDParserConsole\obj\Debug\net5.0\XSDParserConsole.dll
+E:\Предмети\MyProject\XMLParser\XsdXmlParser\XSDParserConsole\obj\Debug\net5.0\ref\XSDParserConsole.dll
+E:\Предмети\MyProject\XMLParser\XsdXmlParser\XSDParserConsole\obj\Debug\net5.0\XSDParserConsole.pdb

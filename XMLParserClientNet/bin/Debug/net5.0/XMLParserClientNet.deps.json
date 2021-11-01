@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "XMLParserClientNet/1.0.0": {
+        "dependencies": {
+          "XSDParserConsole": "1.0.0"
+        },
+        "runtime": {
+          "XMLParserClientNet.dll": {}
+        }
+      },
+      "XSDParserConsole/1.0.0": {
+        "runtime": {
+          "XSDParserConsole.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "XMLParserClientNet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "XSDParserConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
